@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="gson-2.2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/commons-dbutils-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/taglibs-standard-impl-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/druid-1.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/taglibs-standard-spec-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SSM框架/JavaWeb/05-XML &amp; Tomcat/笔记/JavaWeb需要用到的jar包/kaptcha-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
